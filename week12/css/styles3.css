@@ -1,0 +1,277 @@
+.breadcrumb-item >a{
+    color:gray;
+    font-size:12px;
+} 
+           
+.breadcrumb-item >a:hover{
+   color:lightgray;
+}
+.bold-link{
+       font-weight:500;
+}
+li:active{
+       color:black;
+       font-size:12px;
+} 
+.title-cl{
+   color:black;
+   font-size:15px;
+   font-weight:700;
+}
+.subtitle
+{
+   color:#000000;
+   font-size:14px;
+   font-weight:500;
+}
+.checkbox{
+    border:solid 1px #e9e9ed;
+}
+.contant{
+    margin-left:5px;
+   margin-top:2px; 
+    color:#000000;
+    font-size:14px;
+}
+.content1{
+       margin-bottom: 1px;
+}
+.filter-con{
+   padding-top:20px; 
+   width: 235px;
+   border:solid 1px #e9e9ed;
+   border-left: none;
+}
+.list{
+   width:20px;
+}
+
+ .fil-menu{
+               border-radius:20px; 
+               font-size:14px;
+               margin-top:-8px;
+               background-color: white;
+               border:none; 
+           }
+           .bul{
+               border-radius:20px; 
+               font-size:14px;
+               margin-top:-8px;
+               background-color: white;
+               border:none; 
+           }
+           .fil-menu:hover{
+               background-color:gainsboro;
+           }
+           .pro-conat{
+                  width:1024px;
+                height:50px;
+                box-shadow:0 8px 8px -4px rgba(40, 44, 63, 0.04);
+                padding:15px; 
+                border:none; 
+           }
+           .pro-card{
+               font-size:14px;
+               font-weight:500;
+               margin-left:10px; 
+           }
+           .p-card{
+               width:85%; 
+               border-radius:0px;
+               border:0px; 
+           }
+           .p-img{
+               margin-left:.5%; 
+               max-width:98%; 
+               border-radius:0px;
+               height:278px;
+           }
+           .pro-prod-fo{
+               width:99%; 
+               margin-top:10px; 
+               height:25%; 
+           }
+           .p{
+               font-size:14px;
+               font-weight:500; 
+               margin-left:10px;
+           }
+           
+           .pro-card1{
+               font-size:14px;
+               font-weight:300;
+               margin-left:10px; 
+           }
+           .po-header{
+               width:100%;
+               height:75%; 
+               border-radius:0px;   
+           }
+       .size{
+               margin-top:12px; 
+               font-size:14px;
+               font-weight:300;
+               margin-left:10px; 
+       }
+/*bag*/
+.bag-logo{
+   margin-left:41px; 
+}
+.bag-nav{
+   width:100%; 
+   height:80px; 
+   box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bag-title{
+   font-size:15px;
+   font-weight:500;
+   color:dimgray;
+}
+.bag-title-con{
+   margin-top:-40px; 
+   margin-left:38%;
+   width:500px; 
+}
+.bag-title-side-con{
+   margin-top:-40px; 
+   margin-left:87%; 
+}
+.bag-title-side{
+   font-size:15px;
+   margin-top:3%; 
+   font-weight:500;
+   color:dimgray;
+}
+.bag-offer-box{
+   margin-right:10%;
+   border-left:solid 1px #63c786; 
+   width:100%;
+   border-radius:3px; 
+   padding:1%;  
+   border:solid 1px gainsboro;
+}
+.bag-offer-title{
+   font-size:15px;
+   margin:1%; 
+   font-weight:500;
+   color:#63c786;
+}
+.bag-offer-li {
+   font-size:13px;
+   margin:1%; 
+   font-weight:400;
+   color:grey;
+   line-height:25px;  
+}
+.bag-del-box{
+   margin-right:10%;
+   border-left:solid 1px #63c786; 
+   width:100%;
+   height: auto;
+   border-radius:3px; 
+   padding:1%;  
+   border:solid 1px gainsboro;
+   
+}
+.bag-del{
+   display: initial;
+   font-size:13px;
+   margin:1%; 
+   font-weight:600;
+   color:grey;
+   line-height:25px;
+}
+.bag-item{
+   font-size:15px;
+   font-weight:700;
+   color:black;
+   line-height:25px; 
+}
+.bag-item-total{
+   display: initial;
+   font-size:15px;
+   float:right;
+   font-weight:700;
+   color:black;
+   line-height:25px; 
+}
+.bag-item-box{
+   margin-right:10%;
+   margin-left:0px; 
+   width:100%;
+   height: auto;
+   border-radius:3px; 
+   padding-bottom:1%;  
+   border:solid 1px gainsboro;
+}
+.bag-item-img{
+   height:90%; 
+   margin-left:-15px; 
+}
+.bag-item-col{
+   margin-left:0px; 
+   width:100%;
+   height: auto;
+}
+.bag-item-can{
+    font-size:13px;
+    font-weight:400;
+    color:black;
+    line-height:15px; 
+}
+.bag-item-btn{
+   color: gray;
+   border:0px;
+   font-size:15px; 
+   font-weight:700;   
+   background-color:white;
+}
+.bag-table{
+   margin-top:35px;
+   font-weight: 500;
+   color: black;
+}
+.bag-add-wish{
+   margin-right:10%;
+   margin-left:0px; 
+   margin-top: 20px;
+   width:100%;
+   height: auto;
+   border-radius:3px; 
+   padding:3%;  
+   border:solid 1px gainsboro;
+}
+.bag-add-con{
+    font-size:15px;
+    font-weight:700;
+    color:black;
+    line-height:15px;
+}
+.bag-left-con{
+   font-size:13px;
+   margin:1%; 
+   font-weight:600;
+   color:grey;
+   line-height:30px;
+}
+.bag-left-con1{
+   font-size:13px;
+   margin:1%; 
+   font-weight:200;
+   color:black;
+   line-height:30px;
+}
+.bag-left-con2{
+   font-size:13px;
+   font-weight:200;
+   color:black;
+   text-align:right; 
+   line-height:25px;
+}
+.bag-left-botm{
+   font-size:13px;
+   margin:1%; 
+   font-weight:600;
+   color:grey;
+   line-height:30px;
+}
