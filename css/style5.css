@@ -1,0 +1,494 @@
+.order-active{
+    font-weight:700; 
+    font-size:15px;
+    color:#14cda8;
+}
+.order-active:hover{
+    font-weight:700; 
+    font-size:15px;
+    color:#14cda8;
+}
+.a{
+     color:black;
+}
+.a:hover{ 
+    color:#14cda8;
+}
+.order-logo{
+    margin-left:41px; 
+}
+.order-nav{
+    width:100%; 
+    height:80px; 
+    box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.order-title{
+    font-size:15px;
+    font-weight:500;
+    color:dimgray;
+}
+.order-title-con{
+    margin-top:-40px; 
+    margin-left:38%;
+    width:500px; 
+}
+.order-account{
+   font-size: 17px;
+   font-weight: 700;
+}
+.order-account-em{
+   font-size: 11px;
+   font-weight: 400;
+}
+.order-over{
+    width: 110%;
+    padding-top: 15%;
+    text-align: left;
+    height: 68px;
+    margin-left: -10%;
+    margin-right: 1%;
+    font-size:14px; 
+    font-weight: 400;
+    border-bottom: 1px solid #d4d5d9;
+}
+.order-over-2{
+    width: 110%;
+    padding-top: 13%;
+    text-align: left;
+    height:95px;
+    margin-left: -10%;
+    margin-right: 1%;
+    font-size:13px; 
+    font-weight: 400;
+    border-bottom: 1px solid #d4d5d9;
+    color:darkgray; 
+    line-height:27px;
+    
+}
+.order-credit{
+    width: 110%;
+    padding-top:4%;
+    text-align:left;
+    height:160px;
+    margin-left: -10%;
+    margin-right: 1%;
+    font-size:13px; 
+    font-weight: 400;
+    border-bottom: 1px solid #d4d5d9;
+    color:darkgray;
+}
+.order-credit-in{
+    color:black;
+    margin-top:12px;
+    font-size:15px; 
+}
+.order-acc-profile{
+    width: 110%;
+    padding-top: 5%;
+    text-align:left;
+    height:160px;
+    margin-left: -10%;
+    margin-right: 1%;
+    font-size:13px; 
+    font-weight: 400;
+    color:darkgray;
+    
+}
+.order-acc-profile-in{
+    color:black;
+    margin-top:12px; 
+    font-size:15px; 
+    line-height:0px;
+    
+}
+.order-show-order{
+    margin-left:38%; 
+    margin-top:25%;
+}
+.order-item-con{ 
+    padding:2%;
+    margin-top:20px;
+    width:85%; 
+}
+.order-item-row-con{
+    cursor: pointer;
+    padding:2%; 
+    border:solid 1px white; 
+    box-shadow:2px 2px 2px 2px gray; 
+    margin-top:auto;
+    width:110%;
+    height: auto;
+}
+.order-item-title{
+   font-size: 15px;
+   font-weight: 500;
+}
+.order-item-title-sub{
+   font-size: 12px;
+    display: inline-block;
+    color:darkgray;
+   font-weight:500;
+}
+.order-item-btn-over{
+   display: inline-block;
+   font-size: 12px;
+   float:right; 
+   color:darkgray;
+   font-weight:700;
+}
+.order-item-img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 6px 0px 6px 0px;
+}
+.order-delivered{
+    margin-left:-5px;
+    margin-bottom:2px;
+}
+.order-view-order{
+    font-size: 12px;
+    color:darkgray;
+    font-weight:400;
+}
+.order-deliver-price{
+    width: 200px;
+    height: auto;
+    border-top: solid 1px #0d0e0e;
+    margin-left: 7px;
+    margin-bottom: 6px
+}
+
+/*footer*/
+    a{
+                text-decoration: none;
+                color: #282C3F;
+            }
+            input:focus{
+                border:1px solid #ccc !important;
+            }
+            .colm{
+                font-family: Whitney;
+                float: left;
+                width: 155px;
+                display: inline-block;
+                vertical-align: top;
+                padding-right: 20px;
+            }
+            .title{
+                    font-family: Whitney-SemiBold, Whitney;
+                    font-weight: 500;
+                    text-decoration: none;
+             }
+            .colm > a:nth-child(2), .colm > a:nth-child(2) {
+                padding-top: 14px;
+            }
+            .colm > a{
+                color:#282C3F;
+                display: block;
+                font-size: 15px;
+                text-decoration: none;
+                padding-bottom: 5px;
+                cursor: pointer;
+                line-height: normal;
+                }
+            .colm > a:nth-child(2) {
+                    padding-top: 14px;
+            }
+            .colm > a:hover   {
+                    text-decoration: none;
+            }
+             a:hover   {
+                    color:#282C3F;
+                    text-decoration: none;
+            }
+            .colm > p {
+                    font-weight: 500;
+                    text-transform: uppercase;
+            }
+            .des-androidDownLink {
+                    margin-right: 10px;
+                    height: 42px;
+            }
+            .des-downLinkContainer {
+                    display: inline-block;
+            }
+            .des-keepInTouch {
+                    font-size: 12px;
+                    margin-bottom: 10px;
+                    font-weight: 500;
+                    margin-top: 20px;
+            }
+            .des-facebook {
+                    margin: 0px 15px 0px 0px;
+                    zoom: 0.9;
+            }
+            .footer-facebook {
+                    width: 20px;
+                    height: 21px;
+            }
+            .footer-twitter {
+                    width: 23px;
+                    height: 21px;
+                    margin-left: 30px;
+                    margin-top: -26px;
+            }
+            .footer-youtube {
+                    width: 23px;
+                    height: 21px;
+                    margin-left: 60px;
+                    margin-top: -31px;
+            }
+            .footer-instgram {
+                  width: 23px;
+                  height: 21px;
+                  margin-left: 93px;
+                  margin-top: -36px;
+            }
+            .des-section {
+                 margin: 15px 0px 30px 0px;
+                 color: #696B79;
+                font-size: 16px;
+            }
+            .des-original {
+                display: inline-block;
+                float: left;
+                margin-left: -10px;
+                margin-right: 10px;
+            }
+            .original {
+                width: 49.5px;
+                height: 46px;
+            }
+            .delivery {
+                width: 49.5px;
+                height: 46px;
+            }   
+            .return{
+                width: 49.5px;
+                height: 46px;
+}
+
+    .iconimg{
+        width:18px;
+        height: 18px;
+    }
+       .fo{
+                    border-left:0px; 
+                    font-size:13px;
+                    border-color: white;
+                    background-color: #f5f5f6; 
+                    height:40px; 
+    }
+              .fos{
+                  border-color: white;
+                    background-color: #f5f5f6;
+                    height:40px; 
+                    border-radius: 5px;
+                    border-right: 0px;
+}   
+
+.bt{
+    width:30px;
+    height: 34px; 
+    background-color: #f5f5f6;
+    margin-left: -35px;
+    float: left;
+    border-right: 0px;
+    border-radius:0px;
+}
+/*.srce{
+   margin-left: 205px;  
+   background-color: #f5f5f6; 
+    width:390px;
+    border-radius: 5px;
+}
+.iconimg{
+    width:18px;
+    height: 18px;
+}
+.lay{
+    float: left;
+    width: 180px;
+    margin-right: 10px;
+    height: 40px;
+    margin-left: 31px;
+    margin-top: -3px;
+    display: block;
+}
+.lay11{
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    margin-left:8px; 
+    margin-top: 6px;
+}
+.lay2{
+   height: 32px;
+    margin-left: 67px;
+    margin-top: -60px;
+    width: 40px;
+    margin-bottom: 10px;
+}
+.lay3{
+  height: 32px;
+    margin-left: 128px;
+    margin-top: -43px;
+    width: 40px;
+    margin-bottom: 10px;
+}
+.lay1{
+    height: 50px;
+    margin-left: 8px;
+    width: 40px;
+    margin-bottom: 10px;
+}
+.lay1:hover{
+    border-bottom:solid red; 
+}
+.lay12{
+  height: 18px;
+    
+    margin-top: 1px;
+    width: 37px;
+    text-align: center;
+    color: black;
+    font-size: 11px;
+}*/
+.navbar{
+                height:80px;
+                padding: 0px ;
+            }
+            .des-mai {
+               margin-top: -11px;
+    padding: 0 17px 0px 17px;
+    text-align: center;
+    font-size: 13px;
+    letter-spacing: 0.1px;
+    border-bottom: none;
+    transition: left 0.2s ease-out, width 0.2s ease-out;
+    font-weight: 500;
+            }
+             .des-nav {
+    display: flex;
+    float: left;
+    line-height: 80px;
+    height: 68px;
+}
+            
+.des-nav:hover{
+                color:black;
+                border-bottom:solid red; 
+            }
+            .women:hover{
+                border-bottom:solid #f709ce; 
+            }
+            .kids:hover{
+                border-bottom:solid #f75f06; 
+            }
+            .home:hover{
+                border-bottom:solid #fbfb08; 
+            }
+            .discover:hover{
+                border-bottom:solid #05b191; 
+}
+b{
+    color:#282c3f;
+}
+.header{
+               z-index: 3;
+                height: 80px;
+    display:flex;
+          }
+            .de{
+               color: #FFFFFF;
+                top: 0px;
+                position: fixed;
+                right: 0px;
+                left: 0px;
+                z-index: 9;
+                background: #FFFFFF;
+                box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+                height: 80px;
+            }
+            .mic1{
+                    width: 60px;
+                    height: 58px;
+                    margin-top: 12px;
+            }
+             .logocon {
+                   float: left;
+                    height: inherit;
+                    margin-left: 3%;
+                    margin-right: 15px;
+                    margin-top: -27px
+            }
+            @media all and (max-width: 1250px) {
+            .logocon {
+                    margin-left: 2%;
+             }
+            .myn {
+                display: inline-block;
+            }
+                
+            .logo {
+                display: inline-block;
+                margin-top: 20px;
+                vertical-align: middle;
+                padding: 0;
+                margin: 0;
+                cursor: pointer;
+            }
+            .headerLogo {
+                background-position: -462px 0px;
+            }
+    
+    
+@media all and (max-width: 1400px) {
+  .des-nav {
+    margin: 0 0 0 1%;
+  }
+}
+@media all and (max-width: 1250px) {
+  .des-nav {
+    margin: 0 0 0 1%;
+  }
+
+                
+.des-navCo {
+  float: left;
+  border: hidden;
+  text-align: center;
+}
+
+     .navbar{
+                height:80px;
+                padding: 0px ;
+            }
+            .des-mai {
+                color: black;
+                padding: 0 17px 0px 17px;
+                text-align: center;
+                text-decoration: none;
+                font-size: 14px;
+                letter-spacing: 0.3px;
+                border-bottom: none;
+                transition: left 0.2s ease-out, width 0.2s ease-out;
+                font-weight: 500;
+                text-transform: uppercase;
+                display: flex;
+}
+
+/*footer*/
+    .footer{
+   font-family: Whitney;
+    max-width: 1080px;
+    margin: auto;
+    min-width: 980px;
+    font-size: 2px;
+}
+.container{
+    margin-top: 20px;
+    font-size:1px;
+    height: 300px; 
+}
